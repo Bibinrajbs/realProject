@@ -16,7 +16,7 @@
 	<style>
 	
 	.banner-nissan {
-	  height: 400px;
+	  height: 750px;
 	  width: 100%;
 	  max-height: 50%;
 	  max-width: 100%;
