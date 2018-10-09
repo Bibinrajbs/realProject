@@ -1,4 +1,4 @@
-# java-tomcat-maven-example
+# Real Project by Bibin's Team
 
 This is an example ready-to-deploy java web application built for Tomcat using Maven and webapp-runner.
 
